@@ -1,4 +1,6 @@
 h1{
+    justify-content: space-around;
+    align-items: flex-end;
     color:blue;
     background-color: aquamarine;
     border: 10px solid red;
@@ -7,6 +9,8 @@ h1{
 }
 
 div{
+    justify-content: space-between;
+    align-items: center;
     color: red;
     background-color: lightgrey;
     border: 2px solid red;
@@ -23,6 +27,8 @@ div{
 }
 
 p{
+    justify-content: flex-end;
+    align-items: flex-end;
     color:darkblue;
     background-color:aqua;
     border-bottom: 10px solid red;
