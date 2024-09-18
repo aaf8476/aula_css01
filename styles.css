@@ -1,0 +1,32 @@
+h1{
+    color:blue;
+    background-color: aquamarine;
+    border: 10px solid red;
+    padding-top: 15px;
+    margin: 30px;
+}
+
+div{
+    color: red;
+    background-color: lightgrey;
+    border: 2px solid red;
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    margin-right: 2px;
+    margin-left: 3px;
+}
+
+p{
+    color:darkblue;
+    background-color:aqua;
+    border-bottom: 10px solid red;
+    padding-bottom: 5px;
+    margin: 30px;
+
+}
